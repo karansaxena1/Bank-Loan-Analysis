@@ -1,4 +1,4 @@
-# Bank Loan Analysis Dashboard Project 📊💰
+# Bank Loan Analysis Dashboard 📊💰
 
 Welcome to the **Bank Loan Analysis Dashboard** project! 🚀 This exciting data analytics endeavor leverages **MS SQL Server** 🗄️ and **Power BI** 📈 to create a comprehensive, interactive dashboard that provides deep insights into loan performance, borrower profiles, and lending trends. Let’s dive into this data-driven journey! 🌟
 
