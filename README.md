@@ -28,7 +28,7 @@ This project is designed to analyze bank loan data to empower stakeholders with 
 
 ## Tools & Technologies 🛠️
 
-- **MS SQL Server ** 🗄️: For data storage, database creation, and query execution.
+- **MS SQL Server** 🗄️: For data storage, database creation, and query execution.
 - **SQL Server Management Studio (SSMS)** 🔍: To write and manage SQL queries.
 - **Power BI** 📈: For data visualization, dashboard creation, and interactive reporting.
 - **MS Excel** 📑: For supplementary data analysis and validation.
